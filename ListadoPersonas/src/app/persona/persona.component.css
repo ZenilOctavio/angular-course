@@ -1,0 +1,11 @@
+div.card{
+  width: 18rem;
+}
+
+div.card-header{
+  display: flex;
+}
+
+button.btn-close{
+  margin-left: auto;
+}
